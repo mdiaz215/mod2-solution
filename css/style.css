@@ -61,7 +61,7 @@ div#content {
     margin-bottom: 1%;
     overflow: auto;
     width: 32%;
-    height: 15em;
+    max-height: 18em;
     border: 2px solid #5D553E;
     box-sizing: border-box;
   }
@@ -75,7 +75,7 @@ div#content {
     margin-bottom: 1%;
     overflow: auto;
     width: 48%;
-    max-height: 15em;
+    max-height: 18em;
     border: 2px solid #5D553E;
     box-sizing: border-box;
   }
@@ -85,7 +85,7 @@ div#content {
     margin-left: 1%;
     overflow: auto;
     width: 97%;
-    max-height: 15em;
+    max-height: 18em;
     border: 2px solid #5D553E;
     box-sizing: border-box;
   }
